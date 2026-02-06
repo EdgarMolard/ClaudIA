@@ -1,6 +1,13 @@
-/venv
-config.py
+# Environnements virtuels Python
 /venv/
+/.venv/
+venv/
+.venv/
+
+# Configuration avec secrets
+config.py
+
+# Dossiers système
 /lib/
 /lib64/
 /bin/
